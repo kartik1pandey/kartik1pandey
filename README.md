@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm <Your Name>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# 👋 Hi there, I'm Kartik! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## 🚀 About Me
 - 🎓 I'm currently learning and building open-source projects.
@@ -15,13 +15,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartik1pandey&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik1pandey&layout=compact&theme=github_dark)
 
-## 🔥 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-_Updated automatically with ❤️ by [GitHub Actions](https://github.com/features/actions)_
