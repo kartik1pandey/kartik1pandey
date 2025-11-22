@@ -18,11 +18,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Full-stack Web Applications & DevOps Automation**
-- 🌱 I’m currently learning **Advanced Kubernetes & MLOps**
-- 👯 I’m looking to collaborate on **Open Source Python Projects**
-- 💬 Ask me about **React, Django, CI/CD, and Data Analysis**
-- ⚡ Fun fact: **I automate everything I do more than twice!**
+- I’m currently working on **Full-stack Web Applications & DevOps Automation**
+- I’m currently learning **Advanced Kubernetes & MLOps**
+- I’m looking to collaborate on **Open Source Python Projects**
+- Ask me about **React, Django, CI/CD, and Data Analysis**
+- Fun fact: **I automate everything I do more than twice!**
 
 ---
 
@@ -55,12 +55,25 @@
 
 ---
 
-### 🏆 Trophies & Contributions
+### 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartik1pandey&theme=radical&no-frame=true&margin-w=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kartik1pandey&theme=gitblock&no-frame=true&column=7" />
+  </a>
 </div>
 
+---
+
+### 🐍 Contribution History
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kartik1pandey/kartik1pandey/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kartik1pandey/kartik1pandey/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/kartik1pandey/kartik1pandey/raw/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 <!-- Snake Animation - This requires a GitHub Action workflow to update, see instructions below code block -->
 <div align="center">
   <img src="https://github.com/kartik1pandey/kartik1pandey/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
