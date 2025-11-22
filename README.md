@@ -33,10 +33,10 @@
 | **Category** | **Technologies** |
 |:---:|:---:|
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,bash" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" /> |
 
 </div>
 
