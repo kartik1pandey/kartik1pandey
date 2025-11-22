@@ -74,7 +74,4 @@
     <img alt="github contribution grid snake animation" src="https://github.com/kartik1pandey/kartik1pandey/raw/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-<!-- Snake Animation - This requires a GitHub Action workflow to update, see instructions below code block -->
-<div align="center">
-  <img src="https://github.com/kartik1pandey/kartik1pandey/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
+
