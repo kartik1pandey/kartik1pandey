@@ -58,9 +58,7 @@
 ### 🏆 Achievements & Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kartik1pandey&theme=gitblock&no-frame=true&column=7" />
-  </a>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
