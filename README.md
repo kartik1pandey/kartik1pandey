@@ -9,7 +9,7 @@
     <a href="https://www.kaggle.com/kartik3pandey">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
     </a>
-    <a href="mailto:kartik4pandey@gmail.com">
+    <a href="mailto:kartik3pandey@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </p>
