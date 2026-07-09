@@ -16,14 +16,14 @@
 
 ---
 
-### 🔬 About Me
+### About Me
 
-- 🧠 Researching **graph neural networks, hardware-aware sparse training, and LLM-guided optimization** 2 papers: *IEEE TENCON 2026* (under review) and *LION20 2026, Springer LNCS* (accepted)
-- 🧪 Research Intern at **University of Vienna** (DRL + LLM hybrid solvers for combinatorial optimization) and **Samsung PRISM** (ML for Linux kernel memory optimization)
-- 🎓 B.Tech Computer Science @ **IIIT Naya Raipur**, expected 2027
-- 🏆 5x national hackathon winner · WorldQuant Brain Gold Tier · Kaggle top 7% (Rohlik Orders Forecasting)
-- 📫 Open to **Applied Science / ML Research internships**
-- ⚡ Fun fact: 5 hackathon wins and counting still chasing #6
+- Researching **graph neural networks, hardware-aware sparse training, and LLM-guided optimization** 2 papers: *IEEE TENCON 2026* (under review) and *LION20 2026, Springer LNCS* (accepted)
+- Research Intern at **University of Vienna** (DRL + LLM hybrid solvers for combinatorial optimization) and **Samsung PRISM** (ML for Linux kernel memory optimization)
+- B.Tech Computer Science @ **IIIT Naya Raipur**, expected 2027
+- 5x national hackathon winner · WorldQuant Brain Gold Tier · Kaggle top 7% (Rohlik Orders Forecasting)
+- Open to **Applied Science / ML Research internships**
+- Fun fact: 5 hackathon wins and counting still chasing #6
 
 ---
 
